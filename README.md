@@ -11,24 +11,24 @@
 
 ## 주제
 🔸 0주차 : 사전연습
-  - DFS와 BFS : https://www.acmicpc.net/problem/1260 ✔️
-  - 미로탐색 : https://www.acmicpc.net/problem/2178 ✔️
-  - 연구소 : https://www.acmicpc.net/problem/14502 (삼성 SW 역량테스트 기출문제) ✔️
+  - [DFS와 BFS](https://www.acmicpc.net/problem/1260) ✔️
+  - [미로탐색](https://www.acmicpc.net/problem/2178) ✔️
+  - [연구소](https://www.acmicpc.net/problem/14502) (삼성 SW 역량테스트 기출문제) ✔️
 
 🔹 1주차 : 완전탐색(DFS+BFS+Backtracking)
-  - 숫자야구 : https://www.acmicpc.net/problem/2503 ✔️
-  - 로또 : https://www.acmicpc.net/problem/6603 ✔️
-  - 효율적인 해킹 : https://www.acmicpc.net/problem/1325 ✔️
-  - 봄버맨 : https://www.acmicpc.net/problem/16918 ✔️
-  - 마법사 상어와 파이어스톰 : https://www.acmicpc.net/problem/20058 (삼성 SW 역량테스트 기출문제) ➰
-  - 이차원 배열과 연산 : https://www.acmicpc.net/problem/17140 (삼성 SW 역량테스트 기출문제) ➰
-  - 구슬탈출2 : https://www.acmicpc.net/problem/13460 (삼성 SW 역량테스트 기출문제) ❌
+  - [숫자야구](https://www.acmicpc.net/problem/2503) ✔️
+  - [로또](https://www.acmicpc.net/problem/6603) ✔️
+  - [효율적인 해킹](https://www.acmicpc.net/problem/1325) ✔️
+  - [봄버맨](https://www.acmicpc.net/problem/16918) ✔️
+  - [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) (삼성 SW 역량테스트 기출문제) ➰
+  - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) (삼성 SW 역량테스트 기출문제) ➰
+  - [구슬탈출2](https://www.acmicpc.net/problem/13460) (삼성 SW 역량테스트 기출문제) ❌
 
 🔸 2주차 : 시뮬레이션
-  - ZOAC 3 : https://www.acmicpc.net/problem/20436 ✔️
-  - 지구 온난화 : https://www.acmicpc.net/problem/5212 ✔️
-  - 후보 추천하기 : https://www.acmicpc.net/problem/1713 ➰
-  - 컨베이어 밸트 위의 로봇 : https://www.acmicpc.net/problem/20055 (삼성 SW 역량테스트 기출문제) ✔️
-  - 인구이동 : https://www.acmicpc.net/problem/16234 (삼성 SW 역량테스트 기출문제) ➰
-  - 마법사 상어와 토네이도 : https://www.acmicpc.net/problem/20057 (삼성 SW 역량테스트 기출문제)
-  - 낚시왕 : https://www.acmicpc.net/problem/17143
+  - [ZOAC 3](https://www.acmicpc.net/problem/20436) ✔️
+  - [지구 온난화](https://www.acmicpc.net/problem/5212) ✔️
+  - [후보 추천하기](https://www.acmicpc.net/problem/1713) ➰
+  - [컨베이어 밸트 위의 로봇](https://www.acmicpc.net/problem/20055) (삼성 SW 역량테스트 기출문제) ✔️
+  - [인구이동](https://www.acmicpc.net/problem/16234) (삼성 SW 역량테스트 기출문제) ➰
+  - [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) (삼성 SW 역량테스트 기출문제)
+  - [낚시왕](https://www.acmicpc.net/problem/17143)
