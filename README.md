@@ -28,7 +28,7 @@
   - ZOAC 3 : https://www.acmicpc.net/problem/20436 ✔️
   - 지구 온난화 : https://www.acmicpc.net/problem/5212 ✔️
   - 후보 추천하기 : https://www.acmicpc.net/problem/1713 ➰
-  - 컨베이어 밸트 위의 로봇 : https://www.acmicpc.net/problem/20055
+  - 컨베이어 밸트 위의 로봇 : https://www.acmicpc.net/problem/20055 ➰
   - 인구이동 : https://www.acmicpc.net/problem/16234
   - 마법사 상어와 토네이도 : https://www.acmicpc.net/problem/20057
   - 낚시왕 : https://www.acmicpc.net/problem/17143
