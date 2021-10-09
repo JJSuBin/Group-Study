@@ -31,4 +31,13 @@
   - [컨베이어 밸트 위의 로봇](https://www.acmicpc.net/problem/20055) (삼성 SW 역량테스트 기출문제) ✔️
   - [인구이동](https://www.acmicpc.net/problem/16234) (삼성 SW 역량테스트 기출문제) ➰
   - [마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057) (삼성 SW 역량테스트 기출문제) ➰
-  - [낚시왕](https://www.acmicpc.net/problem/17143)
+  - [낚시왕](https://www.acmicpc.net/problem/17143) ❌
+
+🔹 3주차 : 우선순위 큐
+  - [크리스마스 선물](https://www.acmicpc.net/problem/14235) 
+  - [최대 힙](https://www.acmicpc.net/problem/11279)
+  - [절댓값 힙](https://www.acmicpc.net/problem/11286)
+  - [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)
+  - [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
+  - [강의실 배정](https://www.acmicpc.net/problem/11000)
+  - [보석 도둑](https://www.acmicpc.net/problem/1202)
