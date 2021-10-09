@@ -34,9 +34,9 @@
   - [낚시왕](https://www.acmicpc.net/problem/17143) ❌
 
 🔹 3주차 : 우선순위 큐
-  - [크리스마스 선물](https://www.acmicpc.net/problem/14235) 
-  - [최대 힙](https://www.acmicpc.net/problem/11279)
-  - [절댓값 힙](https://www.acmicpc.net/problem/11286)
+  - [크리스마스 선물](https://www.acmicpc.net/problem/14235) ✔️
+  - [최대 힙](https://www.acmicpc.net/problem/11279) ✔️
+  - [절댓값 힙](https://www.acmicpc.net/problem/11286) ✔️
   - [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638)
   - [이중 우선순위 큐](https://www.acmicpc.net/problem/7662)
   - [강의실 배정](https://www.acmicpc.net/problem/11000)
