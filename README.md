@@ -40,4 +40,14 @@
   - [센티와 마법의 뿅망치](https://www.acmicpc.net/problem/19638) ✔️
   - [이중 우선순위 큐](https://www.acmicpc.net/problem/7662) ✔️
   - [강의실 배정](https://www.acmicpc.net/problem/11000) ➰
-  - [보석 도둑](https://www.acmicpc.net/problem/1202)
+  - [보석 도둑](https://www.acmicpc.net/problem/1202) ❌
+
+🔸 4주차 : 시뮬레이션
+  - [톱니바퀴](https://www.acmicpc.net/problem/14891) (삼성 SW 역량테스트 기출문제)
+  - [연구소 3](https://www.acmicpc.net/problem/17142)
+  - [어른 상어](https://www.acmicpc.net/problem/19237) (삼성 SW 역량테스트 기출문제)
+  - [모노미노도미노 2](https://www.acmicpc.net/problem/20061)
+  - [상어 중학교](https://www.acmicpc.net/problem/21609)
+  - [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) (삼성 SW 역량테스트 기출문제)
+  - [다리 만들기 2](https://www.acmicpc.net/problem/17472)
+  
