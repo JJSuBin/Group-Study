@@ -43,7 +43,7 @@
   - [보석 도둑](https://www.acmicpc.net/problem/1202) ❌
 
 🔸 4주차 : 시뮬레이션
-  - [톱니바퀴](https://www.acmicpc.net/problem/14891) (삼성 SW 역량테스트 기출문제)
+  - [톱니바퀴](https://www.acmicpc.net/problem/14891) (삼성 SW 역량테스트 기출문제) ➰
   - [연구소 3](https://www.acmicpc.net/problem/17142) (삼성 SW 역량테스트 기출문제)
   - [어른 상어](https://www.acmicpc.net/problem/19237) (삼성 SW 역량테스트 기출문제)
   - [모노미노도미노 2](https://www.acmicpc.net/problem/20061) (삼성 SW 역량테스트 기출문제)
