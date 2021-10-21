@@ -46,7 +46,7 @@
   - [톱니바퀴](https://www.acmicpc.net/problem/14891) (삼성 SW 역량테스트 기출문제) ➰
   - [연구소 3](https://www.acmicpc.net/problem/17142) (삼성 SW 역량테스트 기출문제) ➰
   - [어른 상어](https://www.acmicpc.net/problem/19237) (삼성 SW 역량테스트 기출문제) ➰
-  - [모노미노도미노 2](https://www.acmicpc.net/problem/20061) (삼성 SW 역량테스트 기출문제)
+  - [모노미노도미노 2](https://www.acmicpc.net/problem/20061) (삼성 SW 역량테스트 기출문제) ➰
   - [상어 중학교](https://www.acmicpc.net/problem/21609) (삼성 SW 역량테스트 기출문제)
   - [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) (삼성 SW 역량테스트 기출문제)
   - [다리 만들기 2](https://www.acmicpc.net/problem/17472)
