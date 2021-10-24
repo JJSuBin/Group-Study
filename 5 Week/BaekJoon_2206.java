@@ -13,10 +13,6 @@ class Point_2206 {
 
 public class BaekJoon_2206 {
 	static int n,m,min=Integer.MAX_VALUE;
-	/*
-	 * drill_count 배열은 방문여부 체크와 각 칸에서 드릴의 사용 횟수를 저장하는 배열이다. 
-	 * 배열의 모든 값을 최댓값으로 초기화 한 뒤 탐색하면서 방문 드릴 사용 횟수를 저장하면서 방문 여부까지 체크한다. 
-	 */
 	static int[][] map; 
 	static boolean visited[][][];
 	static int[] dx= {-1,0,1,0};
