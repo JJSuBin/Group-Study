@@ -52,10 +52,10 @@
   - [다리 만들기 2](https://www.acmicpc.net/problem/17472) ❌
 
 🔹 5주차 : 그래프 탐색
-  - [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) 
-  - [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)
-  - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)
-  - [탈출](https://www.acmicpc.net/problem/3055)
+  - [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) ✔️
+  - [말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600) ➰
+  - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) ➰
+  - [탈출](https://www.acmicpc.net/problem/3055) ✔️
   - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) ➰➰
   - [텀 프로젝트](https://www.acmicpc.net/problem/9466)
   - [퍼즐](https://www.acmicpc.net/problem/1525)
