@@ -57,5 +57,5 @@
   - [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) ➰➰
   - [탈출](https://www.acmicpc.net/problem/3055) ✔️
   - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) ➰➰
-  - [텀 프로젝트](https://www.acmicpc.net/problem/9466)
+  - [텀 프로젝트](https://www.acmicpc.net/problem/9466) ➰
   - [퍼즐](https://www.acmicpc.net/problem/1525) ✔️ 
