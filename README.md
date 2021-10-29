@@ -21,8 +21,8 @@
   - [효율적인 해킹](https://www.acmicpc.net/problem/1325) ✔️
   - [봄버맨](https://www.acmicpc.net/problem/16918) ✔️
   - [마법사 상어와 파이어스톰](https://www.acmicpc.net/problem/20058) (삼성 SW 역량테스트 기출문제) ➰
-  - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) (삼성 SW 역량테스트 기출문제) ➰
-  - [구슬탈출2](https://www.acmicpc.net/problem/13460) (삼성 SW 역량테스트 기출문제) ❌
+  - [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) (삼성 SW 역량테스트 기출문제) ❌
+  - [구슬탈출2](https://www.acmicpc.net/problem/13460) (삼성 SW 역량테스트 기출문제) ➰
 
 🔸 2주차 : 시뮬레이션
   - [ZOAC 3](https://www.acmicpc.net/problem/20436) ✔️
