@@ -59,3 +59,15 @@
   - [욕심쟁이 판다](https://www.acmicpc.net/problem/1937) ➰➰
   - [텀 프로젝트](https://www.acmicpc.net/problem/9466) ➰
   - [퍼즐](https://www.acmicpc.net/problem/1525) ✔️ 
+
+🔸 6주차 : DP + 문자열
+  - [회문](https://www.acmicpc.net/problem/17609)
+  - [파이프 옮기기1](https://www.acmicpc.net/problem/17070)
+  - [동전](https://www.acmicpc.net/problem/9084)
+  - [부분 문자열](https://www.acmicpc.net/problem/16916)
+  - [ACM Craft](https://www.acmicpc.net/problem/1005)
+  - [양팔저울](https://www.acmicpc.net/problem/2629)
+  - [파일 탐색기](https://www.acmicpc.net/problem/20210)
+
+
+  
