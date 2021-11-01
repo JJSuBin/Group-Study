@@ -61,7 +61,7 @@
   - [퍼즐](https://www.acmicpc.net/problem/1525) ✔️ 
 
 🔸 6주차 : DP + 문자열
-  - [회문](https://www.acmicpc.net/problem/17609)
+  - [회문](https://www.acmicpc.net/problem/17609) ➰
   - [파이프 옮기기1](https://www.acmicpc.net/problem/17070)
   - [동전](https://www.acmicpc.net/problem/9084)
   - [부분 문자열](https://www.acmicpc.net/problem/16916)
