@@ -69,13 +69,12 @@
   - [양팔저울](https://www.acmicpc.net/problem/2629)
   - [파일 탐색기](https://www.acmicpc.net/problem/20210)
 
-🔹 7주차 : 구현
-  
-  -[단축키 지정](https://www.acmicpc.net/problem/1283)
-  -[상어 초등학교](https://www.acmicpc.net/problem/21608)
-  -[테트로미노](https://www.acmicpc.net/problem/14500)
-  -[주사위 굴리기](https://www.acmicpc.net/problem/14499)
-  -[결!합!](https://www.acmicpc.net/problem/16722)
-  -[짠돌이 호석](https://www.acmicpc.net/problem/21277)
-  -[큐빙](https://www.acmicpc.net/problem/5373)
+🔹 7주차 : 구현  
+  - [단축키 지정](https://www.acmicpc.net/problem/1283)   
+  - [상어 초등학교](https://www.acmicpc.net/problem/21608)  
+  - [테트로미노](https://www.acmicpc.net/problem/14500)  
+  - [주사위 굴리기](https://www.acmicpc.net/problem/14499)  
+  - [결!합!](https://www.acmicpc.net/problem/16722)  
+  - [짠돌이 호석](https://www.acmicpc.net/problem/21277)  
+  - [큐빙](https://www.acmicpc.net/problem/5373)  
   
