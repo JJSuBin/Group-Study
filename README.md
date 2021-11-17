@@ -72,9 +72,18 @@
 🔹 7주차 : 구현  
   - [단축키 지정](https://www.acmicpc.net/problem/1283)   
   - [상어 초등학교](https://www.acmicpc.net/problem/21608)  
-  - [테트로미노](https://www.acmicpc.net/problem/14500)  
-  - [주사위 굴리기](https://www.acmicpc.net/problem/14499)  
+  - [테트로미노](https://www.acmicpc.net/problem/14500) ✔️
+  - [주사위 굴리기](https://www.acmicpc.net/problem/14499) ✔️
   - [결!합!](https://www.acmicpc.net/problem/16722)  
   - [짠돌이 호석](https://www.acmicpc.net/problem/21277)  
   - [큐빙](https://www.acmicpc.net/problem/5373)  
   
+🔸 8주차 : 그래프
+
+  - [최단경로](https://www.acmicpc.net/problem/1753)
+  - [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
+  - [공주님을 구해라!](https://www.acmicpc.net/problem/17836)
+  - [쉬운 최단거리](https://www.acmicpc.net/problem/14940)
+  - [치즈](https://www.acmicpc.net/problem/2638)
+  - [산책(small)](https://www.acmicpc.net/problem/22868)
+  - [회전 미로 탐색](https://www.acmicpc.net/problem/22949)
