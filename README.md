@@ -80,10 +80,10 @@
   
 🔸 8주차 : 그래프
 
-  - [최단경로](https://www.acmicpc.net/problem/1753)
-  - [숨바꼭질 3](https://www.acmicpc.net/problem/13549)
-  - [공주님을 구해라!](https://www.acmicpc.net/problem/17836)
-  - [쉬운 최단거리](https://www.acmicpc.net/problem/14940)
-  - [치즈](https://www.acmicpc.net/problem/2638)
+  - [최단경로](https://www.acmicpc.net/problem/1753) ✔️
+  - [숨바꼭질 3](https://www.acmicpc.net/problem/13549) ➰
+  - [공주님을 구해라!](https://www.acmicpc.net/problem/17836) ✔️
+  - [쉬운 최단거리](https://www.acmicpc.net/problem/14940) ✔️
+  - [치즈](https://www.acmicpc.net/problem/2638) ➰
   - [산책(small)](https://www.acmicpc.net/problem/22868)
   - [회전 미로 탐색](https://www.acmicpc.net/problem/22949)
