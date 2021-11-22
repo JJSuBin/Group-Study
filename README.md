@@ -85,5 +85,15 @@
   - [공주님을 구해라!](https://www.acmicpc.net/problem/17836) ✔️
   - [쉬운 최단거리](https://www.acmicpc.net/problem/14940) ✔️
   - [치즈](https://www.acmicpc.net/problem/2638) ➰
-  - [산책(small)](https://www.acmicpc.net/problem/22868)
+  - [산책(small)](https://www.acmicpc.net/problem/22868) ❌
   - [회전 미로 탐색](https://www.acmicpc.net/problem/22949)
+
+🔹 8주차 : MST + 구현  
+  
+  - [최소 스패닝 트리](https://www.acmicpc.net/group/practice/12546/10)
+  - [Z](https://www.acmicpc.net/problem/1074)
+  - [치킨 배달](https://www.acmicpc.net/problem/15686)
+  - [뱀](https://www.acmicpc.net/problem/3190)
+  - [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+  - [로롯](https://www.acmicpc.net/problem/1726)
+  - [소문난 칠공주](https://www.acmicpc.net/problem/1941)
