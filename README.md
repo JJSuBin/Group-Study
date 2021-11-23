@@ -88,7 +88,7 @@
   - [산책(small)](https://www.acmicpc.net/problem/22868) ❌
   - [회전 미로 탐색](https://www.acmicpc.net/problem/22949)
 
-🔹 8주차 : MST + 구현  
+🔹 9주차 : MST + 구현  
   
   - [최소 스패닝 트리](https://www.acmicpc.net/group/practice/12546/10) ➰
   - [Z](https://www.acmicpc.net/problem/1074) ➰
