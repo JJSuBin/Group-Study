@@ -93,7 +93,7 @@
   - [최소 스패닝 트리](https://www.acmicpc.net/group/practice/12546/10) ➰
   - [Z](https://www.acmicpc.net/problem/1074) ➰
   - [치킨 배달](https://www.acmicpc.net/problem/15686) ✔️
-  - [뱀](https://www.acmicpc.net/problem/3190) ➰➰
+  - [뱀](https://www.acmicpc.net/problem/3190) ✔️
   - [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) ➰
   - [로롯](https://www.acmicpc.net/problem/1726)
-  - [소문난 칠공주](https://www.acmicpc.net/problem/1941)
+  - [소문난 칠공주](https://www.acmicpc.net/problem/1941) ➰
