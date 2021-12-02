@@ -86,7 +86,7 @@
   - [쉬운 최단거리](https://www.acmicpc.net/problem/14940) ✔️
   - [치즈](https://www.acmicpc.net/problem/2638) ➰
   - [산책(small)](https://www.acmicpc.net/problem/22868) ❌
-  - [회전 미로 탐색](https://www.acmicpc.net/problem/22949)
+  - [회전 미로 탐색](https://www.acmicpc.net/problem/22949) ❌
 
 🔹 9주차 : MST + 구현  
   
@@ -95,7 +95,7 @@
   - [치킨 배달](https://www.acmicpc.net/problem/15686) ✔️
   - [뱀](https://www.acmicpc.net/problem/3190) ✔️
   - [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) ➰
-  - [로또](https://www.acmicpc.net/problem/1726)
+  - [로또](https://www.acmicpc.net/problem/1726) ❌
   - [소문난 칠공주](https://www.acmicpc.net/problem/1941) ➰
 
 🔸 10주차 : 문자열 + BackTracking
