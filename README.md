@@ -101,7 +101,7 @@
 🔸 10주차 : 문자열 + BackTracking
 
   - [IPv6](https://www.acmicpc.net/problem/3107) ➰
-  - [문자열 폭발](https://www.acmicpc.net/problem/9935)
+  - [문자열 폭발](https://www.acmicpc.net/problem/9935) ➰
   - [N과 M(11)](https://www.acmicpc.net/problem/15665) ✔️
   - [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) ✔️
   - [암호 만들기](https://www.acmicpc.net/problem/1759) ✔️
