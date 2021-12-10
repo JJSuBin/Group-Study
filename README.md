@@ -112,8 +112,8 @@
 
   - [공유기 설치](https://www.acmicpc.net/problem/2110)
   - [두 용액](https://www.acmicpc.net/problem/2470)
-  - [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
-  - [직사각형 탈출](https://www.acmicpc.net/problem/16973)
+  - [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278) ✔️
+  - [직사각형 탈출](https://www.acmicpc.net/problem/16973) ➰
   - [빙산](https://www.acmicpc.net/problem/2573)
   - [불!](https://www.acmicpc.net/problem/4179)
   - [모래성](https://www.acmicpc.net/problem/10711)
