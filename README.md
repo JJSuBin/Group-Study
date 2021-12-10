@@ -107,3 +107,13 @@
   - [암호 만들기](https://www.acmicpc.net/problem/1759) ✔️
   - [스도쿠](https://www.acmicpc.net/problem/2580) ➰
   - [색종이 붙이기](https://www.acmicpc.net/problem/17136)
+
+🔹 11주차 : 이분탐색 + 그래프
+
+  - [공유기 설치](https://www.acmicpc.net/problem/2110)
+  - [두 용액](https://www.acmicpc.net/problem/2470)
+  - [호석이 두 마리 치킨](https://www.acmicpc.net/problem/21278)
+  - [직사각형 탈출](https://www.acmicpc.net/problem/16973)
+  - [빙산](https://www.acmicpc.net/problem/2573)
+  - [불!](https://www.acmicpc.net/problem/4179)
+  - [모래성](https://www.acmicpc.net/problem/10711)
