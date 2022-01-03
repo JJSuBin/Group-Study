@@ -117,3 +117,20 @@
   - [빙산](https://www.acmicpc.net/problem/2573) ✔️
   - [불!](https://www.acmicpc.net/problem/4179) ✔️
   - [모래성](https://www.acmicpc.net/problem/10711) ✔️
+
+🔸 12주차 : 투포인터
+
+🔹 13주차 : 정규표현식 + MST
+
+🔸 14주차 : 다익스트라
+
+🔹 15주차 : 완탐 + 구현
+
+  - [직각삼각형](https://www.acmicpc.net/problem/1711)
+  - [괄호 추가하기](https://www.acmicpc.net/problem/16637) ➰
+  - [감시](https://www.acmicpc.net/problem/15683)
+  - [게리맨더링](https://www.acmicpc.net/problem/17471)
+  - [나무 재테크](https://www.acmicpc.net/problem/16235)
+  - [청소년 상어](https://www.acmicpc.net/problem/19236)
+  - [주사위 윷놀이](https://www.acmicpc.net/problem/17825)
+  - [리모컨](https://www.acmicpc.net/problem/1107)
