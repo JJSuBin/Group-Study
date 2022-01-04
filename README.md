@@ -120,6 +120,14 @@
 
 🔸 12주차 : 투포인터
 
+  - [부분합](https://www.acmicpc.net/problem/1806) ✔️
+  - [좋다](https://www.acmicpc.net/problem/1253)
+  - [다이어트](https://www.acmicpc.net/problem/1484)
+  - [소수의 연속합](https://www.acmicpc.net/problem/1644)
+  - [고냥이](https://www.acmicpc.net/problem/16472)
+  - [대표 선수](https://www.acmicpc.net/problem/2461)
+  - [수열의 장인](https://www.acmicpc.net/problem/10885)
+
 🔹 13주차 : 정규표현식 + MST
 
 🔸 14주차 : 다익스트라
