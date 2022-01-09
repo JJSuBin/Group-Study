@@ -140,5 +140,15 @@
   - [게리맨더링](https://www.acmicpc.net/problem/17471) ➰
   - [나무 재테크](https://www.acmicpc.net/problem/16235) ✔️
   - [청소년 상어](https://www.acmicpc.net/problem/19236) ➰
-  - [주사위 윷놀이](https://www.acmicpc.net/problem/17825)
+  - [주사위 윷놀이](https://www.acmicpc.net/problem/17825) ❌
   - [리모컨](https://www.acmicpc.net/problem/1107) ✔️
+
+🔸 16주차 : DFS + BFS
+
+  - [내리막 길](https://www.acmicpc.net/problem/1520)
+  - [스타트 링크](https://www.acmicpc.net/problem/5014)
+  - [여행 가자](https://www.acmicpc.net/problem/1976)
+  - [중량 제한](https://www.acmicpc.net/problem/1939)
+  - [스타트 택시](https://www.acmicpc.net/problem/19238)
+  - [2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [게임](https://www.acmicpc.net/problem/1103)
