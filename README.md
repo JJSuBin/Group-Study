@@ -145,7 +145,7 @@
 
 🔸 16주차 : DFS + BFS
 
-  - [내리막 길](https://www.acmicpc.net/problem/1520)
+  - [내리막 길](https://www.acmicpc.net/problem/1520) ✔️
   - [스타트 링크](https://www.acmicpc.net/problem/5014) ✔️
   - [여행 가자](https://www.acmicpc.net/problem/1976)
   - [중량 제한](https://www.acmicpc.net/problem/1939)
