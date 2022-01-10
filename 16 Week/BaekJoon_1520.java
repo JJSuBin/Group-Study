@@ -28,7 +28,7 @@ public class BaekJoon_1520 {
 		if(x==n-1&&y==m-1) // 목표 지점에 도착한 경우
 			return 1;
 		
-		if(dp[x][y]!=-1) // 미모제이션
+		if(dp[x][y]!=-1) // 메모제이션
 			return dp[x][y];
 		
 		else { // 아직 방문하지 않은 곳이라면  
