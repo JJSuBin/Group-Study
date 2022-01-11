@@ -121,7 +121,7 @@
 🔸 12주차 : 투포인터
 
   - [부분합](https://www.acmicpc.net/problem/1806) ✔️
-  - [좋다](https://www.acmicpc.net/problem/1253)
+  - [좋다](https://www.acmicpc.net/problem/1253) ✔️
   - [다이어트](https://www.acmicpc.net/problem/1484)
   - [소수의 연속합](https://www.acmicpc.net/problem/1644)
   - [고냥이](https://www.acmicpc.net/problem/16472)
@@ -129,6 +129,14 @@
   - [수열의 장인](https://www.acmicpc.net/problem/10885)
 
 🔹 13주차 : 정규표현식 + MST
+  
+  - [염색체](https://www.acmicpc.net/problem/9342)
+  - [Contact](https://www.acmicpc.net/problem/1013)
+  - [잠수함식별](https://www.acmicpc.net/problem/2671)
+  - [이 얼마나 끔찍하고 무시무시한 수식이니](https://www.acmicpc.net/problem/23629)
+  - [도시 분할 계획](https://www.acmicpc.net/problem/1647)
+  - [행성 연결](https://www.acmicpc.net/problem/16398)
+  - [전기가 부족해](https://www.acmicpc.net/problem/10423)
 
 🔸 14주차 : 다익스트라
 
