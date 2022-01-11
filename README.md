@@ -130,7 +130,7 @@
 
 🔹 13주차 : 정규표현식 + MST
   
-  - [염색체](https://www.acmicpc.net/problem/9342)
+  - [염색체](https://www.acmicpc.net/problem/9342) ✔️
   - [Contact](https://www.acmicpc.net/problem/1013)
   - [잠수함식별](https://www.acmicpc.net/problem/2671)
   - [이 얼마나 끔찍하고 무시무시한 수식이니](https://www.acmicpc.net/problem/23629)
