@@ -157,6 +157,6 @@
   - [스타트 링크](https://www.acmicpc.net/problem/5014) ✔️
   - [여행 가자](https://www.acmicpc.net/problem/1976) ✔️
   - [중량 제한](https://www.acmicpc.net/problem/1939) ➰
-  - [스타트 택시](https://www.acmicpc.net/problem/19238)
+  - [스타트 택시](https://www.acmicpc.net/problem/19238) ➰
   - [2048(Easy)](https://www.acmicpc.net/problem/12100)
   - [게임](https://www.acmicpc.net/problem/1103)
