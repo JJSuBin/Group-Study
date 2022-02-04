@@ -160,3 +160,26 @@
   - [스타트 택시](https://www.acmicpc.net/problem/19238) ➰
   - [2048(Easy)](https://www.acmicpc.net/problem/12100) ❌
   - [게임](https://www.acmicpc.net/problem/1103) ➰
+
+🔹 17주차 : 분할 정복 + 시뮬레이션
+
+
+🔸 18주차 : 세그먼트 트리 + 그래프
+  
+  - [구간 합 구하기](https://www.acmicpc.net/problem/2042) ➰
+  - [사탕상자](https://www.acmicpc.net/problem/2243) ➰
+  - [샘터](https://www.acmicpc.net/problem/18513) ❌
+  - [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) ❌
+  - [집합의 표현](https://www.acmicpc.net/problem/1717) ✔️
+  - [네트워크 연결](https://www.acmicpc.net/problem/1922) ✔️
+  - [줄 세우기](https://www.acmicpc.net/problem/2252) ✔️
+
+🔹 19주차 : 설 연휴 쉬어가기
+
+  - [피보나치 수](https://www.acmicpc.net/problem/2747) 
+  - [캥거루 세마리](https://www.acmicpc.net/problem/2965) 
+  - [삼각형과 세 변](https://www.acmicpc.net/problem/5073) 
+  - [01타일](https://www.acmicpc.net/problem/1904)
+  - [계단 오르기](https://www.acmicpc.net/problem/2579) 
+  - [포도주 시식](https://www.acmicpc.net/problem/2156) 
+  - [if](https://www.acmicpc.net/problem/15549) 
