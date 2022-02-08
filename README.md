@@ -176,10 +176,20 @@
 
 🔹 19주차 : 설 연휴 쉬어가기
 
-  - [피보나치 수](https://www.acmicpc.net/problem/2747) 
-  - [캥거루 세마리](https://www.acmicpc.net/problem/2965) 
-  - [삼각형과 세 변](https://www.acmicpc.net/problem/5073) 
-  - [01타일](https://www.acmicpc.net/problem/1904)
-  - [계단 오르기](https://www.acmicpc.net/problem/2579) 
-  - [포도주 시식](https://www.acmicpc.net/problem/2156) 
-  - [if](https://www.acmicpc.net/problem/15549) 
+  - [피보나치 수](https://www.acmicpc.net/problem/2747) ✔️
+  - [캥거루 세마리](https://www.acmicpc.net/problem/2965) ✔️
+  - [삼각형과 세 변](https://www.acmicpc.net/problem/5073) ✔️
+  - [01타일](https://www.acmicpc.net/problem/1904) ✔️
+  - [계단 오르기](https://www.acmicpc.net/problem/2579) ✔️ 
+  - [포도주 시식](https://www.acmicpc.net/problem/2156) ➰
+  - [if](https://www.acmicpc.net/problem/15549) ❌
+
+🔸 20주차 : 정렬 + 투포인터
+  
+  - [좌표압축](https://www.acmicpc.net/problem/2747) ✔️
+  - [N번째 큰 수](https://www.acmicpc.net/problem/2965)
+  - [수 묶기](https://www.acmicpc.net/problem/5073)
+  - [두 수의 합](https://www.acmicpc.net/problem/1904) 
+  - [회전 초밥](https://www.acmicpc.net/problem/2579) 
+  - [소수의 연속 합](https://www.acmicpc.net/problem/2156)
+  - [합이 0인 네 정수](https://www.acmicpc.net/problem/15549) 
