@@ -191,5 +191,5 @@
   - [수 묶기](https://www.acmicpc.net/problem/5073) ✔️
   - [두 수의 합](https://www.acmicpc.net/problem/1904) ➰
   - [회전 초밥](https://www.acmicpc.net/problem/2579) ➰
-  - [소수의 연속 합](https://www.acmicpc.net/problem/2156)
+  - [소수의 연속 합](https://www.acmicpc.net/problem/2156) ✔️
   - [합이 0인 네 정수](https://www.acmicpc.net/problem/15549) 
