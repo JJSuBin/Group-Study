@@ -196,10 +196,10 @@
 
 🔹 21주차 : 2022 카카오 블라인드 테스트
 
-  - [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) 
-  - [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) 
-  - [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) 
-  - [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342)
-  - [양과 늑대](https://www.acmicpc.net/problem/2579) 
-  - [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) 
-  - [사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345) 
+  - [신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) ✔️
+  - [k진수에서 소수 개수 구하기](https://programmers.co.kr/learn/courses/30/lessons/92335) ✔️
+  - [주차 요금 계산](https://programmers.co.kr/learn/courses/30/lessons/92341) ➰
+  - [양궁대회](https://programmers.co.kr/learn/courses/30/lessons/92342) ✔️
+  - [양과 늑대](https://www.acmicpc.net/problem/2579) ❌
+  - [파괴되지 않은 건물](https://programmers.co.kr/learn/courses/30/lessons/92344) ➰
+  - [사라지는 발판](https://programmers.co.kr/learn/courses/30/lessons/92345) ❌
