@@ -206,10 +206,10 @@
 
 🔸 22주차 : 정규 표현식 + 정답률 낮은 문제
   
-  - [수학숙제](https://www.acmicpc.net/problem/2870)
-  - [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022)
+  - [수학숙제](https://www.acmicpc.net/problem/2870) ✔️
+  - [늑대와 올바른 단어](https://www.acmicpc.net/problem/13022) ✔️
   - [이 얼마나 끔찍하고 무시무시한 수식이니](https://www.acmicpc.net/problem/23629)
   - [다항 함수의 적분](https://www.acmicpc.net/problem/17214)
-  - [독서실 거리두기](https://www.acmicpc.net/problem/20665)
+  - [독서실 거리두기](https://www.acmicpc.net/problem/20665) ➰
   - [미확인 도착지](https://www.acmicpc.net/problem/9370)
-  - [2048(Easy)](https://www.acmicpc.net/problem/12100)
+  - [2048(Easy)](https://www.acmicpc.net/problem/12100) ➰
